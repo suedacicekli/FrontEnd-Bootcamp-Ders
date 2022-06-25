@@ -1,0 +1,30 @@
+ul {
+  list-style: none;
+  padding: 0px;
+}
+
+.body {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+#user-form {
+  display: none;
+}
+
+.kodluyoruz {
+  color: rgba(252, 167, 9, 0.902);
+}
+
+
+
+.loading-gif {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+#loadUsers {
+  background-color: rgba(252, 167, 9, 0.902);
+}
